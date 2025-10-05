@@ -1,0 +1,16 @@
+{
+  "mode": "follow",
+  "settings": {
+    "headless": false,
+    "globalDelay": 30,
+    "follow": {
+      "countPerAccount": 20,
+      "minDelay": 10,
+      "maxDelay": 25
+    },
+    "like": {
+      "minDelay": 5,
+      "maxDelay": 15
+    }
+  }
+}
