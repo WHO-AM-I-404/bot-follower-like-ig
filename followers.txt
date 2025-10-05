@@ -1,0 +1,6 @@
+# followers.txt
+# Daftar akun target untuk mode Follow
+
+instagram
+nasa
+natgeo
