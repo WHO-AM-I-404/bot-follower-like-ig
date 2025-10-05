@@ -1,0 +1,17 @@
+{
+  "name": "ig-final-bot",
+  "version": "3.0.0",
+  "description": "Final, Complete, and Detailed Instagram Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.0.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
