@@ -1,0 +1,12 @@
+# accounts.txt
+# Format: username di baris pertama, password di baris kedua.
+# Pisahkan setiap akun dengan tanda --
+
+akun_tester1
+password_satu
+--
+akun_tester2
+password_dua
+--
+akun_tester3
+password_tiga
